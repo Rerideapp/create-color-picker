@@ -1,0 +1,15 @@
+{
+  "name": "create-color-picker",
+  "version": "1.0.0",
+  "description": "Create a color picker tool. Display a color preview, show hex and RGB values, and allow users to copy the color code. Use a simple, clean interface.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
